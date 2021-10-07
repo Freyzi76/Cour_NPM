@@ -1,0 +1,30 @@
+{
+  "name": "cour_npm",
+  "version": "1.0.0",
+  "description": "Cour_NPM",
+  "main": "index.js",
+  "dependencies": {
+    "css-loader": "^6.3.0",
+    "css-minimizer-webpack-plugin": "^3.1.1",
+    "mini-css-extract-plugin": "^2.4.1",
+    "minify-html-webpack-plugin": "^1.1.6",
+    "webpack-cli": "^4.9.0",
+    "webpack": "^5.57.1",
+    "webpack-dev-server": "^4.3.1",
+    "webpack-serve": "^4.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Freyzi76/Cour_NPM.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Freyzi76/Cour_NPM/issues"
+  },
+  "homepage": "https://github.com/Freyzi76/Cour_NPM#readme"
+}
